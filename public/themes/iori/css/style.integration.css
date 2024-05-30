@@ -1,0 +1,22 @@
+.header-top-adjusted {
+height: auto !important; /* Override any existing height */
+  justify-content: space-between;
+  display: flow;
+  flex-direction: row-reverse
+
+}
+
+.header-top .header-wrap {
+   justify-content: space-between;
+  flex-direction: row-reverse
+padding: -500px !important;
+}
+
+.header-top {
+border-bottom: 1px solid #b9cad0;
+background-color: #ffe7bb;
+}
+
+.header .main-header .header-left .header-right {
+width: 20%;
+}
